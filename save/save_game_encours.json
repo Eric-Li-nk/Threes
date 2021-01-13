@@ -1,0 +1,34 @@
+{
+    "plateau": {
+        "n": 4,
+        "nb_cases_libres": 11,
+        "tiles": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            2,
+            1,
+            2,
+            0
+        ]
+    },
+    "next_tile": {
+        "mode": "encours",
+        "0": {
+            "val": 3,
+            "ligne": 0,
+            "colonne": 1
+        },
+        "check": true
+    },
+    "score": 10
+}
